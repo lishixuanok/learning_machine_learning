@@ -23,4 +23,4 @@ def pre_process(file_path):
 
 if __name__ == '__main__':
     file_path = 'fresh_comp_offline/tianchi_fresh_comp_train_user.csv'
-    calculate(file_path)
+    pre_process(file_path)
