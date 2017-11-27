@@ -1,3 +1,3 @@
-# 代码练习
+# 练习
 
-Initialized at 2017-08-13
+1. 2017-11-27: 逻辑回归练习(Logistic Regression)

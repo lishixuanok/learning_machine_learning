@@ -1,0 +1,5 @@
+./basic_model/logistic_regression/model
+.DS_Store
+.idea/
+basic_model/.DS_Store
+basic_model/logistic_regression/tianchi_fresh_comp_train_user.csv
